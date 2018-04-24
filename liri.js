@@ -1,4 +1,4 @@
-//require("dotenv").config();
+require("dotenv").config();
 
 // var twitterClient = new Twitter(keys.twitter)
 // var spotify = new Spotify(keys.spotify)
