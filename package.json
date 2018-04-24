@@ -1,0 +1,30 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "Liri Node App",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerisemiller/Liri-Node-App.git"
+  },
+  "keywords": [
+    "Liri"
+  ],
+  "author": "Cerise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerisemiller/Liri-Node-App/issues"
+  },
+  "homepage": "https://github.com/cerisemiller/Liri-Node-App#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "file-system": "^2.2.2",
+    "node-env-file": "^0.1.8",
+    "omdb": "^0.8.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
